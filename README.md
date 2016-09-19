@@ -1,3 +1,6 @@
 # test-repo
 
-repo made for testing.
+This will be a nice project.
+1
+2
+3
